@@ -1,5 +1,13 @@
 {
-  "dependencies": {
+    "name": "portaone",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "node solution.js"
+    },
+    "dependencies": {
     "fs": "^0.0.1-security"
-  }
+    }
+  
 }
+
